@@ -9,3 +9,6 @@ node_js:
 
 deploy:
   provider: azure_web_apps
+  username: "prijindal"
+  password: "prijindal123"
+  site: "testappprijindal"
