@@ -6,9 +6,6 @@ node_js:
     - "0.11"
     - "0.10"
     - "iojs"
-    allow_failures:
-        - "4.1"
-
 
 deploy:
     provider: azure_web_apps
