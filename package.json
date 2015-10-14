@@ -1,0 +1,23 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "Test App to use github, travis and azure",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prijindal/testApp-prijindal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prijindal/testApp-prijindal/issues"
+  },
+  "homepage": "https://github.com/prijindal/testApp-prijindal#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
