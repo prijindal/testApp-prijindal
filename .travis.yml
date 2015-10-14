@@ -8,9 +8,9 @@ node_js:
   - "iojs"
 
 deploy:
-  provider: azure_web_apps
-  username: "prijindal"
-  password: "prijindal123"
-  site: "testappprijindal"
+    provider: azure_web_apps
+    username: "prijindal"
+    password: "prijindal123"
+    site: "testappprijindal"
     on:
-       node: "4.1"
+        node: "4.1"
