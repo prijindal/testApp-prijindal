@@ -12,3 +12,5 @@ deploy:
   username: "prijindal"
   password: "prijindal123"
   site: "testappprijindal"
+    on:
+       node: "4.1"
